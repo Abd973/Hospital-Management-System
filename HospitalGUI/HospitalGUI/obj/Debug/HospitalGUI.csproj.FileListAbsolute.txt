@@ -1,0 +1,10 @@
+D:\Hossam\MyDocuments\study\Second_Year\Second_semester\database\Database Project\HospitalGUI\HospitalGUI\bin\Debug\HospitalGUI.exe.config
+D:\Hossam\MyDocuments\study\Second_Year\Second_semester\database\Database Project\HospitalGUI\HospitalGUI\bin\Debug\HospitalGUI.exe
+D:\Hossam\MyDocuments\study\Second_Year\Second_semester\database\Database Project\HospitalGUI\HospitalGUI\bin\Debug\HospitalGUI.pdb
+D:\Hossam\MyDocuments\study\Second_Year\Second_semester\database\Database Project\HospitalGUI\HospitalGUI\obj\Debug\HospitalGUI.csproj.AssemblyReference.cache
+D:\Hossam\MyDocuments\study\Second_Year\Second_semester\database\Database Project\HospitalGUI\HospitalGUI\obj\Debug\HospitalGUI.Properties.Resources.resources
+D:\Hossam\MyDocuments\study\Second_Year\Second_semester\database\Database Project\HospitalGUI\HospitalGUI\obj\Debug\HospitalGUI.csproj.GenerateResource.cache
+D:\Hossam\MyDocuments\study\Second_Year\Second_semester\database\Database Project\HospitalGUI\HospitalGUI\obj\Debug\HospitalGUI.csproj.CoreCompileInputs.cache
+D:\Hossam\MyDocuments\study\Second_Year\Second_semester\database\Database Project\HospitalGUI\HospitalGUI\obj\Debug\HospitalGUI.exe
+D:\Hossam\MyDocuments\study\Second_Year\Second_semester\database\Database Project\HospitalGUI\HospitalGUI\obj\Debug\HospitalGUI.pdb
+D:\Hossam\MyDocuments\study\Second_Year\Second_semester\database\Database Project\HospitalGUI\HospitalGUI\obj\Debug\HospitalGUI.Form1.resources
